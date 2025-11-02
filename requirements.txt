@@ -1,0 +1,8 @@
+APScheduler~=3.11.0
+aiogram~=3.20.0.post0
+colorlog~=6.9.0
+pytz~=2025.2
+aiogram_i18n~=1.4
+pydantic~=2.11.3
+aiohttp~=3.11.18
+colorama~=0.4.6
